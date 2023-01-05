@@ -3,3 +3,7 @@
 
 **NOTE:**
 One can clone the ropository without `--recurse-submodules`. Then, one should initialize submodules with `git submodule update --init`.
+
+2. Run `install.sh` script.
+
+**NOTE:** Your `bashrc` file will be automatically updated
